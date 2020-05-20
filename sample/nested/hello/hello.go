@@ -1,5 +1,5 @@
 package hello
 
 func CallFromHello() string {
-	return "hello golang!"
+	return "hello golang!" + notVisible
 }
