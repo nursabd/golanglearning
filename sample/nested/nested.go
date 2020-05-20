@@ -1,9 +1,10 @@
 package main
 
 import (
-	"Gotut/sample/nested/hello"
-	"Gotut/sample/nested/say"
 	"fmt"
+
+	"github.com/nursabd/golanglearning/sample/nested/hello"
+	"github.com/nursabd/golanglearning/sample/nested/say"
 )
 
 func main() {
